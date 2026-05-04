@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lillestora", "lillestora\lillestora.csproj", "{A2DD0D85-31BB-4F02-A35C-84148AC7A048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lillestora.Tests", "lillestora.Tests\lillestora.Tests.csproj", "{D0F4CFD3-BE79-4E28-A8CC-F4DE28C995DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DD0D85-31BB-4F02-A35C-84148AC7A048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DD0D85-31BB-4F02-A35C-84148AC7A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DD0D85-31BB-4F02-A35C-84148AC7A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DD0D85-31BB-4F02-A35C-84148AC7A048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F4CFD3-BE79-4E28-A8CC-F4DE28C995DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F4CFD3-BE79-4E28-A8CC-F4DE28C995DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F4CFD3-BE79-4E28-A8CC-F4DE28C995DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F4CFD3-BE79-4E28-A8CC-F4DE28C995DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
